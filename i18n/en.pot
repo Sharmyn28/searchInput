@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2021-07-02T17:05:16.319Z\n"
+"PO-Revision-Date: 2021-07-02T17:05:16.320Z\n"
+
+msgid "Hello {{name}}"
+msgstr "Hello {{name}}"
+
+msgid "Welcome to DHIS2!"
+msgstr "Welcome to DHIS2!"
+
+msgid "Show fewer"
+msgstr "Show fewer"
+
+msgid "Show more"
+msgstr "Show more"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "Search for visualizations to add"
+msgstr "Search for visualizations to add"
+
+msgid "Visualizations"
+msgstr "Visualizations"
+
+msgid "Pivot tables"
+msgstr "Pivot tables"
+
+msgid "Charts"
+msgstr "Charts"
+
+msgid "Maps"
+msgstr "Maps"
+
+msgid "Event reports"
+msgstr "Event reports"
+
+msgid "Event charts"
+msgstr "Event charts"
+
+msgid "Apps"
+msgstr "Apps"
+
+msgid "Reports"
+msgstr "Reports"
+
+msgid "Resources"
+msgstr "Resources"
+
+msgid "Users"
+msgstr "Users"
